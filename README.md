@@ -1,11 +1,5 @@
 # libxdg-basedir
 
-This is my fork of **libxdg-basedir**, by Mark Nevill. The original appears to be unmaintained.
-
-I have fixed an obvious bug and performed minor cleanup up the code. More importantly, I
-intend to issue new releases when fixes are made. I cannot attest as to the quality but
-will accept pull requests containing bug fixes.
-
 ## The XDG Base Directory specification
 
 **libxdg-basedir** is "An implementation of the XDG Base Directory specifications".
